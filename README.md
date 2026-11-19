@@ -1,4 +1,4 @@
-# Uvod u analizu podataka – Prva zadaća
+# Analiza utjecaja oglašavanja na prodaju – linearna regresija
 
 Analiza skupa podataka **Advertising Dataset** u sklopu kolegija *Uvod u analizu podataka*.
 
